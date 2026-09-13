@@ -7,19 +7,23 @@
 > *"I hate programming, I understand programming, I love programming."*
 
 - 🎓 國立臺北科技大學（National Taipei University of Technology）
-- 🤖 做了一些解決 AI 使用痛點的小工具：[AI Wrapped](https://ilovecat1005.github.io/ai-wrapped/)（使用回顧）、[De-Slop](https://ilovecat1005.github.io/de-slop/)（去 AI 味）、[對話紀錄搜尋](https://ilovecat1005.github.io/chat-export-search/)（本機全文搜尋匯出檔）
+- 🤖 做了一條「AI 使用痛點」工具鏈：回顧（[AI Wrapped](https://ilovecat1005.github.io/ai-wrapped/)）、去 AI 味（[De-Slop](https://ilovecat1005.github.io/de-slop/)）、對話搜尋與封存、歷史接上 MCP（[mcp-server-chat-history](https://github.com/ilovecat1005/mcp-server-chat-history)）、設定檔同步（[ai-context](https://github.com/ilovecat1005/ai-context)）
 - 🛠 喜歡動手做：從 Python 自動化、AI 工具中文化，到 3D 列印治具與量測系統
-- 🌐 作品集網站：**[ilovecat1005.github.io](https://ilovecat1005.github.io/)**
+- 📖 也整理了 [AI 術語台灣用法對照](https://github.com/ilovecat1005/zh-tw-ai-glossary)
 
 ## 🚀 代表專案
 
 | 專案 | 說明 |
 | --- | --- |
 | [ai-wrapped](https://github.com/ilovecat1005/ai-wrapped) | 拖放 ChatGPT / Claude 匯出檔，本機生成 AI 使用回顧 — 100% 瀏覽器計算、零依賴、零追蹤 |
+| [mcp-server-chat-history](https://github.com/ilovecat1005/mcp-server-chat-history) | 把匯出對話變成 MCP server — 讓 Claude 直接搜尋、翻閱你的 AI 歷史 |
 | [de-slop](https://github.com/ilovecat1005/de-slop) | 去掉文字裡的 AI 味：刪填充詞、換空泛用詞、標樣板句。純規則、全本機 |
-| [chat-export-search](https://github.com/ilovecat1005/chat-export-search) | 在本機全文搜尋 ChatGPT / Claude 對話匯出檔 — 官方搜尋不好用時的答案 |
-| [ai-context](https://github.com/ilovecat1005/ai-context) | 一行指令掃描專案，產生並同步 CLAUDE.md / AGENTS.md / copilot-instructions.md（`npx` 可用） |
+| [chat-export-search](https://github.com/ilovecat1005/chat-export-search) | 在本機全文搜尋 ChatGPT / Claude 對話匯出檔 |
+| [chat-export-archive](https://github.com/ilovecat1005/chat-export-archive) | 匯出檔轉 Markdown 長期封存：按年月分類、附索引、純標準庫 |
+| [ai-context](https://github.com/ilovecat1005/ai-context) | 一行指令產生並同步 CLAUDE.md / AGENTS.md / GEMINI.md / copilot / Cursor 五份設定檔 |
+| [stl-inspector](https://github.com/ilovecat1005/stl-inspector) | 拖入 STL 看模型＋算尺寸、體積、線材用量 — three.js 打包進 repo，零外部請求 |
 | [claude-desktop-zh-tw](https://github.com/ilovecat1005/claude-desktop-zh-tw) | Claude Desktop 繁體中文（台灣）介面補丁 — 一鍵安裝、自動備份與還原 |
+| [zh-tw-ai-glossary](https://github.com/ilovecat1005/zh-tw-ai-glossary) | AI 術語台灣用法對照：要不要翻、大家怎麼講、附例句 |
 | [stock-strategies-only](https://github.com/ilovecat1005/stock-strategies-only) | 台股每日自動選股機器人 — 基本面 × 技術面 × 歷史回測，GitHub Actions 免費自動執行 |
 | [ilovecat1005.github.io](https://github.com/ilovecat1005/ilovecat1005.github.io) | 我的作品集網站 — 3D 建模、量測系統、AI 應用專案 |
 
