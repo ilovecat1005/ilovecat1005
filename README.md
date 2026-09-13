@@ -7,7 +7,7 @@
 > *"I hate programming, I understand programming, I love programming."*
 
 - 🎓 國立臺北科技大學（National Taipei University of Technology）
-- 🤖 目前正在開發：**解決 AI 使用痛點的開源工具**，敬請期待 🚧
+- 🤖 剛發布：**[AI Wrapped](https://ilovecat1005.github.io/ai-wrapped/)** — 拖放 ChatGPT / Claude 匯出檔，在本機生成你的 AI 使用回顧
 - 🛠 喜歡動手做：從 Python 自動化、AI 工具中文化，到 3D 列印治具與量測系統
 - 🌐 作品集網站：**[ilovecat1005.github.io](https://ilovecat1005.github.io/)**
 
@@ -15,6 +15,7 @@
 
 | 專案 | 說明 |
 | --- | --- |
+| [ai-wrapped](https://github.com/ilovecat1005/ai-wrapped) | ✨ 拖放 ChatGPT / Claude 匯出檔，本機生成 AI 使用回顧 — 100% 瀏覽器計算、零依賴、零追蹤 |
 | [claude-desktop-zh-tw](https://github.com/ilovecat1005/claude-desktop-zh-tw) | Claude Desktop 繁體中文（台灣）介面補丁 — 一鍵安裝、自動備份與還原 |
 | [stock-strategies-only](https://github.com/ilovecat1005/stock-strategies-only) | 台股每日自動選股機器人 — 基本面 × 技術面 × 歷史回測，GitHub Actions 免費自動執行 |
 | [ilovecat1005.github.io](https://github.com/ilovecat1005/ilovecat1005.github.io) | 我的作品集網站 — 3D 建模、量測系統、AI 應用專案 |
